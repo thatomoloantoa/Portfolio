@@ -37,7 +37,7 @@ export const PROJECTS: Project[] = [
     description: 'Developed comprehensive AI-driven platforms, from data ingestion and model training to deployment and user interface. A full-stack solution designed for enterprise-level applications.',
     tags: ['System Design', 'Cloud', 'Full Stack', 'Python'],
     image: 'https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?q=80&w=1970&auto=format&fit=crop',
-    githubUrl: 'https://github.com/thatomoloantoa',
-    liveUrl: '#',
+    githubUrl: 'https://github.com/thatomoloantoa/AI-Powered-Symptoms-Checker.git',
+    liveUrl: 'https://ai-powered-symptoms-checker.vercel.app/',
   },
 ];

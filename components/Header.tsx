@@ -91,8 +91,7 @@ const Header: React.FC<HeaderProps> = ({ theme, toggleTheme }) => {
                   <NavLink href="#contact" index={3} onClick={closeMenu}>Contact</NavLink>
                   <li>
                     <a 
-                      href="#" 
-                      target="_blank" 
+                      href="#"
                       rel="noopener noreferrer" 
                       className="inline-block mt-4 font-mono text-lg border border-light-primary dark:border-dark-primary text-light-primary dark:text-dark-primary rounded-md px-8 py-3 hover:bg-light-primary/10 dark:hover:bg-dark-primary/10 transition-colors duration-300"
                     >

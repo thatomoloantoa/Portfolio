@@ -13,11 +13,9 @@ const Hero: React.FC = () => {
                   Thato Moloantoa.
                 </h1>
                 <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-light-text-secondary dark:text-dark-text-secondary leading-tight mt-1">
-                  I build things for the web.
+                  IT Support Candidate
                 </h2>
-                <p className="mt-6 text-lg max-w-xl text-light-text-secondary dark:text-dark-text-secondary">
-                  I’m an IT Management graduate and developer specializing in creating high-quality, robust, and user-friendly digital experiences. I'm currently focused on building accessible, human-centered products.
-                </p>
+
                 <a
                     href="mailto:thatomoloantoa127@gmail.com"
                     className="inline-block mt-12 bg-transparent border border-light-primary dark:border-dark-primary text-light-primary dark:text-dark-primary font-mono text-lg py-4 px-8 rounded-md hover:bg-light-primary/10 dark:hover:bg-dark-primary/10 transition-all duration-300"

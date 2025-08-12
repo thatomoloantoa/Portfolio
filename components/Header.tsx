@@ -67,8 +67,7 @@ const Header: React.FC<HeaderProps> = ({ theme, toggleTheme }) => {
               </ul>
             </nav>
             <a 
-              href="#" 
-              target="_blank" 
+              href="https://capeitinitiative-my.sharepoint.com/:b:/g/personal/thato_moloantoa_capaciti_org_za/EYc9iuyXXpxOro2QZqDbhsYBw231x67tlDZUpFVVvscsxw?e=Aa09H6" 
               rel="noopener noreferrer" 
               className="hidden md:inline-block font-mono text-sm border border-light-primary dark:border-dark-primary text-light-primary dark:text-dark-primary rounded-md px-4 py-2 hover:bg-light-primary/10 dark:hover:bg-dark-primary/10 transition-colors duration-300"
             >
@@ -92,6 +91,7 @@ const Header: React.FC<HeaderProps> = ({ theme, toggleTheme }) => {
                   <li>
                     <a 
                       href="#"
+                      target="_blank" 
                       rel="noopener noreferrer" 
                       className="inline-block mt-4 font-mono text-lg border border-light-primary dark:border-dark-primary text-light-primary dark:text-dark-primary rounded-md px-8 py-3 hover:bg-light-primary/10 dark:hover:bg-dark-primary/10 transition-colors duration-300"
                     >

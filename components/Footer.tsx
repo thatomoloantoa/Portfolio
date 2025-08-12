@@ -11,11 +11,11 @@ const SocialLink: React.FC<{href: string; iconName: 'github' | 'linkedin'}> = ({
 const Footer: React.FC = () => {
   return (
     <footer className="py-6 text-center text-light-text-secondary dark:text-dark-text-secondary">
-      <div className="container mx-auto px-6 md:px-12 flex flex-col items-center">
         <div className="md:hidden flex items-center space-x-6 mb-4">
             <SocialLink href="https://github.com/thatomoloantoa" iconName="github" />
             <SocialLink href="https://www.linkedin.com/in/thato-moloantoa-6155b2308" iconName="linkedin" />
         </div>
+      <div className="container mx-auto px-6 md:px-12 flex flex-col items-center">
         <a 
             href="https://github.com/thatomoloantoa" 
             target="_blank" 

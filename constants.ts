@@ -21,8 +21,8 @@ export const PROJECTS: Project[] = [
     description: 'An intelligent system that automates content creation, leveraging AI to produce high-quality text for various needs. Built with a modern tech stack to ensure performance and scalability.',
     tags: ['AI/ML', 'Python', 'React', 'FastAPI'],
     image: 'https://www.winsavvy.com/wp-content/uploads/2024/06/ai-content-creation-1.jpg',
-    githubUrl: 'https://github.com/thatomoloantoa',
-    liveUrl: 'https://github.com/thatomoloantoa',
+    githubUrl: 'https://github.com/thatomoloantoa/Educational-Content-Generator.git',
+    liveUrl: 'https://educational-content-generator.vercel.app/',
   },
   {
     title: 'AI Resume Builder',

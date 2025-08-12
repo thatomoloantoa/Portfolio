@@ -29,8 +29,8 @@ export const PROJECTS: Project[] = [
     description: 'A smart tool that assists users in creating professional, tailored resumes by analyzing job descriptions and suggesting improvements. Integrates with the Gemini API for content suggestions.',
     tags: ['React', 'Gemini API', 'Node.js', 'UX/UI'],
     image: 'https://images.unsplash.com/photo-1586281380349-632531db7ed4?q=80&w=2070&auto=format&fit=crop',
-    githubUrl: 'https://github.com/thatomoloantoa',
-    liveUrl: '#',
+    githubUrl: 'https://github.com/thatomoloantoa/AI-Resume-Generator.git',
+    liveUrl: 'https://ai-resume-generator-kappa.vercel.app/',
   },
     {
     title: 'End-to-End AI Solutions',

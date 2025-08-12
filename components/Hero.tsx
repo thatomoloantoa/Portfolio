@@ -12,9 +12,9 @@ const Hero: React.FC = () => {
                 <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-light-text dark:text-dark-text leading-tight">
                   Thato Moloantoa.
                 </h1>
-                <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-light-text-secondary dark:text-dark-text-secondary leading-tight mt-1">
+                <h4 className="text-3xl sm:text-4xl md:text-5xl font-bold text-light-text-secondary dark:text-dark-text-secondary leading-tight mt-1">
                   IT Support Candidate
-                </h2>
+                </h4>
 
                 <a
                     href="mailto:thatomoloantoa127@gmail.com"
